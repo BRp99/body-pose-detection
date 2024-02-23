@@ -26,7 +26,7 @@ With this project, I can visualize the player's poses in the video and extract t
 
 1. Initially, I set up video capture using OpenCV and then used MediaPipe's pose detection functionality to obtain the positions of the landmarks.
    
-2.Then I use MediaPipe library for pose detection.
+2. Then I use MediaPipe library for pose detection.
 
 3. The poses were visualized both in the original video and in a separate image, highlighting the extracted pose.
 
@@ -78,7 +78,7 @@ Algorithm:
 ### **Simple Explanation** about the progress of this project:
 
 ![Image 1](./images/one.png)
-![Image 2](./images/two.png)
+![Image 2](./images/updated_two.png)
 
 
 ### **Detailed Explanation** about the progress of this project: 
@@ -88,8 +88,11 @@ Algorithm:
 
 
 ### Result Videos:
+I have 2 videos with different landmark styles, because these videos will be placed within my portfolio [https://github.com/BRp99/BRp99.github.io].
 
 [![Video 1 - blue](./videos/bask1.gif)
+
+
 [![Video 2 - red](./videos/bask2.gif)
 
 
