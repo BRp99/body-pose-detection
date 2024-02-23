@@ -1,4 +1,4 @@
-### Body Pose Detection
+# Body Pose Detection
 
 ## Intro:
 This project is a human body pose detection and extraction tool. I chose a short video showing a person playing basketball.
@@ -21,11 +21,9 @@ With this project, I can visualize the player's poses in the video and extract t
 
 
 ## Process:
-I started this project using the MediaPipe library for pose detection.
+1. Initially, I set up video capture using OpenCV and then used MediaPipe's pose detection functionality to obtain the positions of the landmarks. Then I use MediaPipe library for pose detection.
 
-Initially, I set up video capture using OpenCV and then used MediaPipe's pose detection functionality to obtain the positions of the landmarks.
-
-The poses were visualized both in the original video and in a separate image, highlighting the extracted pose.
+2. The poses were visualized both in the original video and in a separate image, highlighting the extracted pose.
 
 **At the end of this README, you will find videos presenting the project results and images documenting the thought process, providing a deeper understanding of the development journey.**
 
@@ -46,7 +44,7 @@ The poses were visualized both in the original video and in a separate image, hi
   
 - I learned how to integrate MediaPipe's functionalities into computer vision projects.
 
-## Improvements✨✨:
+## ✨✨ Improvements:
 
 Style:
 - Improve the stylization of landmarks for a more aesthetic visualization;
@@ -65,11 +63,17 @@ Algorithm:
 - Try another algorithm that can capture body segments with fast movements.
 
 
-## Video and Images:
+## Video and Images
 
 ### Result Videos:
 
 
-### Process Documentation Images:
+### **Simple Explanation** about the progress of this project:
+
+![Image 1](./images/one.png)
+![Image 2](./images/two.png)
+
+
+### **Detailed Explanation** about the progress of this project: 
 
 
