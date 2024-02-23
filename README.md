@@ -88,12 +88,14 @@ Algorithm:
 
 
 ### Result Videos:
-I have 2 videos with different landmark styles, because these videos will be placed within my portfolio [https://github.com/BRp99/BRp99.github.io].
+I have 2 videos with different landmark styles, because these videos will be placed within my portfolio https://github.com/BRp99/BRp99.github.io.
 
-[![Video 1 - blue](./videos/bask1.gif)
+[![Video 1 - blue landmarks]
+(./videos/bask1.gif)
 
 
-[![Video 2 - red](./videos/bask2.gif)
+[![Video 2 - red landmarks]
+(./videos/bask2.gif)
 
 
 
