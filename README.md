@@ -1,5 +1,13 @@
 # Body Pose Detection
 
+### Result Videos:
+I have 2 videos with different landmark styles, because these videos will be placed within my portfolio https://github.com/BRp99/BRp99.github.io.
+
+[![Video 1 - blue landmarks](./videos/bask1.gif)
+
+
+[![Video 2 - red landmarks](./videos/bask2.gif)
+
 ## Intro:
 
 This project is a human body pose detection and extraction tool. I chose a short video showing a person playing basketball.
@@ -88,16 +96,6 @@ Algorithm:
 ![Image 4](./images/goal_b.png)
 ![Image 5](./images/goal_c1.png)
 ![Image 6](./images/goal_c2.png)
-
-
-
-### Result Videos:
-I have 2 videos with different landmark styles, because these videos will be placed within my portfolio https://github.com/BRp99/BRp99.github.io.
-
-[![Video 1 - blue landmarks](./videos/bask1.gif)
-
-
-[![Video 2 - red landmarks](./videos/bask2.gif)
 
 
 
