@@ -11,6 +11,7 @@ With this project, I can visualize the player's poses in the video and extract t
 - Python
 - OpenCV
 - MediaPipe
+- NumPy
 - Patience 😅😅😅😅
 
 ## Features:
@@ -83,19 +84,20 @@ Algorithm:
 
 ### **Detailed Explanation** about the progress of this project: 
 
-
+![Image 3](./images/goal_a.png)
+![Image 4](./images/goal_b.png)
+![Image 5](./images/goal_c1.png)
+![Image 6](./images/goal_c2.png)
 
 
 
 ### Result Videos:
 I have 2 videos with different landmark styles, because these videos will be placed within my portfolio https://github.com/BRp99/BRp99.github.io.
 
-[![Video 1 - blue landmarks]
-(./videos/bask1.gif)
+[![Video 1 - blue landmarks](./videos/bask1.gif)
 
 
-[![Video 2 - red landmarks]
-(./videos/bask2.gif)
+[![Video 2 - red landmarks](./videos/bask2.gif)
 
 
 
